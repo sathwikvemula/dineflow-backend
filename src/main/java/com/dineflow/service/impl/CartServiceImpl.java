@@ -154,9 +154,7 @@ public class CartServiceImpl implements CartService {
         return mapToResponse(cart);
     }
 
-    // ===========================================================
-    // Helper Methods
-    // ===========================================================
+
 
     private User getCurrentUser() {
 
